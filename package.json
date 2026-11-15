@@ -1,0 +1,9 @@
+{
+  "name": "fiesta-mp3-rooms",
+  "version": "1.0.0",
+  "description": "Servidor de salas para Fiesta MP3",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "license": "GPL-3.0"
+}
